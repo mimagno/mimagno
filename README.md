@@ -1,4 +1,4 @@
-### The force may with you 🔥
+### May the force be with you 🔥
 
  <div>
   <a href="https://github.com/mimagno">
@@ -8,7 +8,7 @@
   
    <img align="center" alt="Magno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="Magno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="right" alt="Rafa-yoda" height="100" src="https://c.tenor.com/uplfZ2r6_BMAAAAC/baby-yoda-baby-yoda-happy.gif">
+      <img align="right" alt="Magno-gif" height="150" src="https://im3.ezgif.com/tmp/ezgif-3-12d445d63d5f.gif">
 
   ##
   
