@@ -8,7 +8,7 @@
   
    <img align="center" alt="Magno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="Magno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="right" alt="Magno-gif" height="150" src="https://im3.ezgif.com/tmp/ezgif-3-12d445d63d5f.gif">
+      <img align="right" alt="Magno-gif" height="150" src="https://media2.giphy.com/media/8Qelddibhs0xtLfuH8/giphy.gif?cid=790b76119457daac8b689000c667e19d4fbda08ea7959b30&rid=giphy.gif&ct=g">
 
   ##
   
