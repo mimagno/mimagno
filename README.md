@@ -12,9 +12,7 @@
    <img align="center" alt="Magno-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
    <img align="center" alt="Magno-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-      <img align="right"alt="Magnogif"height="150"src="https://media2.giphy.com/media/8Qelddibhs0xtLfuH8/giphy.gifcid=790b76119457daac8b689000c667e19d4fbda08ea7959b30&rid=giphy.gif&ct=g"/>
-
-  ##
+      <img align="right" alt="Magno-gif" height="150" src="https://media2.giphy.com/media/8Qelddibhs0xtLfuH8/giphy.gif?cid=790b76119457daac8b689000c667e19d4fbda08ea7959b30&rid=giphy.gif&ct=g">
   
   <div>
     <a href = "mailto:magnoaraujob99@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
