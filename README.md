@@ -9,8 +9,9 @@
    <img align="center" alt="Magno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
    <img align="center" alt="Magno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Magno-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-   <img align="center" alt="Magno-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-   <img align="center" alt="Magno-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+   <img align="center" alt="Magno-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+   <img align="center" alt="Magno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+   <img align="center" alt="Magno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
  <div>
       <img align="right" alt="Magno-gif" height="150" src="https://media2.giphy.com/media/8Qelddibhs0xtLfuH8/giphy.gif?cid=790b76119457daac8b689000c667e19d4fbda08ea7959b30&rid=giphy.gif&ct=g">
